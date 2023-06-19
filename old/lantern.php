@@ -169,11 +169,11 @@
 	<header id="header">
 		<div></div>
 		<nav class="container" >
-     		<a href="home.php">
+     		<a href="index.html">
      			<img src=img/logo.svg>
      		</a>
 			<ul>
-		    	<li><a href="home.php">首頁</a></li>
+		    	<li><a href="index.html">首頁</a></li>
 		    	<li><a href="history.php">廟宇介紹</a></li>
 		        <li><a href="lantern.php">我的祈福燈</a></li>
 		        <li><a href="login.php">我的帳號</a></li>
